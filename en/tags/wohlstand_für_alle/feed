@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://zuendbuch.de"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Zündbuch - Wohlstand für alle</title>
+ <link>http://zuendbuch.de/en/taxonomy/term/1626/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Wohlstand für alle</title>
+ <link>http://zuendbuch.de/en/wohlstand_fur_alle</link>
+ <description>&lt;div class=&quot;product-info product sell&quot;&gt;&lt;span class=&quot;uc-price-product uc-price-sell uc-price&quot;&gt;&lt;span class=&quot;price-prefixes&quot;&gt;Price: &lt;/span&gt;2.00 Euros&lt;/span&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;!-- google_ad_section_end --&gt;&lt;div class=&quot;field field-type-text field-field-synopsis&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Synopsis:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;&quot;Wohlstand für alle&quot; ist Grundbestandteil einer anarchistischen Gesellschaft. Kropotkin schreibt über die Reichtümer, die uns zur Verfügung stehen, die Weise wie die kapitalistische Gesellschaft damit umgeht und Armut hervorbringt und wie eine freie Gesellschaft Wohlstand für alle schaffen kann.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-contents&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Contents:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;32 Seiten&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;product-body&quot;&gt;&lt;/div&gt;&lt;div class=&quot;field field-type-text field-field-pages&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Pages:&amp;nbsp;&lt;/div&gt;
+                    32        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-themen&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Themen:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Anarchismus        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-buchtags&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Buchtags:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Armut        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                    Reichtum        &lt;/div&gt;
+              &lt;div class=&quot;field-item odd&quot;&gt;
+                    Wohlstand für alle        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-autor&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Autor:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Peter Kropotkin        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <category domain="http://zuendbuch.de/en/themen/anarchismus">Anarchismus</category>
+ <category domain="http://zuendbuch.de/en/tags/armut">Armut</category>
+ <category domain="http://zuendbuch.de/en/autor/peter_kropotkin">Peter Kropotkin</category>
+ <category domain="http://zuendbuch.de/en/tags/reichtum">Reichtum</category>
+ <category domain="http://zuendbuch.de/en/tags/wohlstand_f%C3%BCr_alle">Wohlstand für alle</category>
+ <pubDate>Thu, 22 Mar 2007 17:04:01 +0000</pubDate>
+ <dc:creator>Wolfgang Zucht</dc:creator>
+ <guid isPermaLink="false">365 at http://zuendbuch.de</guid>
+</item>
+</channel>
+</rss>

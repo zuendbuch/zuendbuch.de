@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://zuendbuch.de"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Zündbuch - Perre Ramus</title>
+ <link>http://zuendbuch.de/de/taxonomy/term/1552/0</link>
+ <description></description>
+ <language>de</language>
+<item>
+ <title>Francisco Ferrer – Die moderne Schule</title>
+ <link>http://zuendbuch.de/de/francisco_ferrer_die_moderne_schule</link>
+ <description>&lt;div class=&quot;product-info product sell&quot;&gt;&lt;span class=&quot;uc-price-product uc-price-sell uc-price&quot;&gt;&lt;span class=&quot;price-prefixes&quot;&gt;Price: &lt;/span&gt;1.20 Euros&lt;/span&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;!-- google_ad_section_end --&gt;&lt;div class=&quot;field field-type-text field-field-synopsis&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Synopsis:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;Beschreibung der ldeen und Situation, von denen aus der Anarchist Ferrer 1901 die „Moderne Schule“ in Barcelona gründete. Sie sollte frei von Dogmen sein und sich auf Vernunft und Wissenschaft gründen und sollte vor allem eine Befreiung von der Bevormundung der Kirche sein.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-contents&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Contents:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;32 Seiten&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;product-body&quot;&gt;&lt;/div&gt;&lt;div class=&quot;field field-type-text field-field-publisher&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Publisher:&amp;nbsp;&lt;/div&gt;
+                    Packpapier        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-pages&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Seiten:&amp;nbsp;&lt;/div&gt;
+                    32        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-themen&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Themen:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Bildung / Pädagogik        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                    Anarchismus        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-autor&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Autor:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Perre Ramus        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <category domain="http://zuendbuch.de/de/themen/anarchismus">Anarchismus</category>
+ <category domain="http://zuendbuch.de/de/themen/bildung_p%C3%A4dagogik">Bildung / Pädagogik</category>
+ <category domain="http://zuendbuch.de/de/autor/perre_ramus">Perre Ramus</category>
+ <pubDate>Wed, 21 Mar 2007 10:39:52 +0000</pubDate>
+ <dc:creator>Wolfgang Zucht</dc:creator>
+ <guid isPermaLink="false">340 at http://zuendbuch.de</guid>
+</item>
+</channel>
+</rss>

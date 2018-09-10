@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://zuendbuch.de"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Zündbuch - Leonard Nelson</title>
+ <link>http://zuendbuch.de/en/taxonomy/term/2744/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Wie Vernunft praktisch werden kann</title>
+ <link>http://zuendbuch.de/en/node/720</link>
+ <description>&lt;div class=&quot;product-info product sell&quot;&gt;&lt;span class=&quot;uc-price-product uc-price-sell uc-price&quot;&gt;&lt;span class=&quot;price-prefixes&quot;&gt;Price: &lt;/span&gt;5.00 Euros&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-type-filefield field-field-cover&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img  class=&quot;imagefield imagefield-field_cover&quot; width=&quot;1754&quot; height=&quot;2468&quot; alt=&quot;&quot; src=&quot;http://zuendbuch.de/sites/default/files/pictures/Wie%20Vernunft%20praktische%20werden%20kann.jpg?1357737675&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- google_ad_section_start --&gt;&lt;!-- google_ad_section_end --&gt;&lt;div class=&quot;field field-type-text field-field-synopsis&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Synopsis:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;Wie Vernunft praktisch werden kann&lt;br /&gt;Zur Aktualität des philosophischen Werkes von Leonard Nelson – eine Ausstellung&lt;/p&gt;
+&lt;p&gt;Zur Ausstellung erschien dieser Katalog, der mit vielen Abbildungen einen Überblick über die Arbeit Nelsons (Philosophie, Pädagogik,&amp;nbsp; Politik) und seiner MitarbeiterInnen gibt: Internationaler Jugendbund, Internationaler Sozialistischer Kampfbund (ISK), Philosophisch-Politische-Akademie, Widerstand und Exil während der Nazizeit, die Arbeit nach dem 2. Weltkrieg.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;product-body&quot;&gt;&lt;/div&gt;&lt;div class=&quot;field field-type-text field-field-publisher&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Publisher:&amp;nbsp;&lt;/div&gt;
+                    PPA        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-pages&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Pages:&amp;nbsp;&lt;/div&gt;
+                    52        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-themen&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Themen:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Philosophie        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-erscheinungsjahr&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Erscheinungsjahr:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    1987        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-buchtags&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Buchtags:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Friedensphilosophie        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                    sokratische Methode        &lt;/div&gt;
+              &lt;div class=&quot;field-item odd&quot;&gt;
+                    Leonard Nelson        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <category domain="http://zuendbuch.de/en/erscheinungsjahr/1987">1987</category>
+ <category domain="http://zuendbuch.de/en/tags/friedensphilosophie">Friedensphilosophie</category>
+ <category domain="http://zuendbuch.de/en/tags/leonard_nelson">Leonard Nelson</category>
+ <category domain="http://zuendbuch.de/en/themen/philosophie">Philosophie</category>
+ <category domain="http://zuendbuch.de/en/tags/sokratische_methode">sokratische Methode</category>
+ <pubDate>Wed, 09 Jan 2013 13:33:29 +0000</pubDate>
+ <dc:creator>Wolfgang Zucht</dc:creator>
+ <guid isPermaLink="false">720 at http://zuendbuch.de</guid>
+</item>
+</channel>
+</rss>
