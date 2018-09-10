@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://zuendbuch.de"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Zündbuch - Kurt Hiller</title>
+ <link>http://zuendbuch.de/en/taxonomy/term/1181/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Pazifismus der Tat – Revolutionärer Pazifismus</title>
+ <link>http://zuendbuch.de/en/pazifismus_der_tat_%E2%80%93_revolution%C3%A4rer_pazifismus</link>
+ <description>&lt;div class=&quot;product-info product sell&quot;&gt;&lt;span class=&quot;uc-price-product uc-price-sell uc-price&quot;&gt;&lt;span class=&quot;price-prefixes&quot;&gt;Price: &lt;/span&gt;5.00 Euros&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-type-filefield field-field-cover&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img  class=&quot;imagefield imagefield-field_cover&quot; width=&quot;1229&quot; height=&quot;1938&quot; alt=&quot;&quot; src=&quot;http://zuendbuch.de/sites/default/files/978-3-88713-027-5_0.jpg?1278498292&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- google_ad_section_start --&gt;&lt;!-- google_ad_section_end --&gt;&lt;div class=&quot;field field-type-text field-field-synopsis&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Synopsis:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;Hiller war zwischen 1910 und 1933 ein bedeutender Publizist, außerdem Sozialist, Pazifist und ein großer Polemiker, was beim Lesen großes Vergnügen bereitet. Hiller befürwortete einen kämpferischen Pazifismus gegenüber einem Pazifismus der Appelle an Regierungen. Die Beiträge geben Einblick in die Diskussionen der Pazifisten jener Zeit.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-contents&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Contents:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;71 Seiten&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;product-body&quot;&gt;&lt;/div&gt;&lt;div class=&quot;field field-type-text field-field-publisher&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Publisher:&amp;nbsp;&lt;/div&gt;
+                    Weber &amp;amp; Zucht        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-isbn&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              ISBN:&amp;nbsp;&lt;/div&gt;
+                    978-3-88713-027-5        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-pages&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Pages:&amp;nbsp;&lt;/div&gt;
+                    71        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-themen&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Themen:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Pazifismus        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                    Verlagsbücher        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-buchtags&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Buchtags:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    revolutionärer Pazifismus        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-autor&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Autor:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Kurt Hiller        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <category domain="http://zuendbuch.de/en/themen/verlagsb%C3%BCcher">Verlagsbücher</category>
+ <category domain="http://zuendbuch.de/en/autor/kurt_hiller">Kurt Hiller</category>
+ <category domain="http://zuendbuch.de/en/themen/pazifismus">Pazifismus</category>
+ <category domain="http://zuendbuch.de/en/tags/revolution%C3%A4rer_pazifismus">revolutionärer Pazifismus</category>
+ <pubDate>Tue, 21 Nov 2006 20:35:33 +0000</pubDate>
+ <dc:creator>Mario Behling</dc:creator>
+ <guid isPermaLink="false">212 at http://zuendbuch.de</guid>
+</item>
+</channel>
+</rss>

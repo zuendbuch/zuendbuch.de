@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://zuendbuch.de"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Zündbuch - Strafvollzug</title>
+ <link>http://zuendbuch.de/de/taxonomy/term/2374/0</link>
+ <description></description>
+ <language>de</language>
+<item>
+ <title>Ritual Knast</title>
+ <link>http://zuendbuch.de/de/ritual_knast</link>
+ <description>&lt;div class=&quot;product-info product sell&quot;&gt;&lt;span class=&quot;uc-price-product uc-price-sell uc-price&quot;&gt;&lt;span class=&quot;price-prefixes&quot;&gt;Price: &lt;/span&gt;13.80 Euros&lt;/span&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;!-- google_ad_section_end --&gt;&lt;div class=&quot;field field-type-text field-field-synopsis&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Synopsis:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;Die Niederlage des Gefängnisses – Eine Bestandsaufnahme&lt;/p&gt;
+&lt;p&gt;Becker schildert mit 20 Jahren Hafterfahrung das Dasein im Gefängnis, die Praxis des Vollzugsrechts, die Wärter, die Fachdienste, die Subkultur. Das Buch dokumentiert, dass das Konzept der Resozialisierung von der hier beschriebenen Praxis längst nicht mehr besteht. Das Buch ist mehr als ein Erfahrungsbericht, es berücksichtigt wissenschaftliche Erkenntnis, veröffentlichte Meinung, Zitatillustrationen bekannter Autoren aus zwei Jahrhunderten. Der Vorstellung, Freiheitsentzug führe zu einem Verhalten anerkannter gesellschaftlicher Normen – eine Fiktion – hält er größtenteils erprobte Alternativen entgegen.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;product-body&quot;&gt;&lt;/div&gt;&lt;div class=&quot;field field-type-text field-field-copyright&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Copyright:&amp;nbsp;&lt;/div&gt;
+                    2008        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-publisher&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Publisher:&amp;nbsp;&lt;/div&gt;
+                    Forum Leipzig        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-isbn&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              ISBN:&amp;nbsp;&lt;/div&gt;
+                    978-3-931801-65-6        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-pages&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Seiten:&amp;nbsp;&lt;/div&gt;
+                    200        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-themen&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Themen:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Gefängnis        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-buchtags&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Buchtags:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Strafvollzug        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                    Strafrecht        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-autor&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Autor:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Hubertus Becker        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <category domain="http://zuendbuch.de/de/themen/gef%C3%A4ngnis">Gefängnis</category>
+ <category domain="http://zuendbuch.de/de/autor/hubertus_becker">Hubertus Becker</category>
+ <category domain="http://zuendbuch.de/de/tags/strafrecht">Strafrecht</category>
+ <category domain="http://zuendbuch.de/de/tags/strafvollzug">Strafvollzug</category>
+ <pubDate>Sun, 27 Jun 2010 11:47:14 +0000</pubDate>
+ <dc:creator>Wolfgang Zucht</dc:creator>
+ <guid isPermaLink="false">605 at http://zuendbuch.de</guid>
+</item>
+</channel>
+</rss>

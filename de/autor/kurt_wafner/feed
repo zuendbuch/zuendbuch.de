@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://zuendbuch.de"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Zündbuch - Kurt Wafner</title>
+ <link>http://zuendbuch.de/de/taxonomy/term/1996/0</link>
+ <description></description>
+ <language>de</language>
+<item>
+ <title>Ausgeschert aus Reih’ und Glied</title>
+ <link>http://zuendbuch.de/de/ausgeschert_aus_reih%E2%80%99_und_glied</link>
+ <description>&lt;div class=&quot;product-info product sell&quot;&gt;&lt;span class=&quot;uc-price-product uc-price-sell uc-price&quot;&gt;&lt;span class=&quot;price-prefixes&quot;&gt;Price: &lt;/span&gt;14.90 Euros&lt;/span&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;!-- google_ad_section_end --&gt;&lt;div class=&quot;field field-type-text field-field-synopsis&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Synopsis:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;Mein Leben als Bücherfreund und Anarchist&lt;/p&gt;
+&lt;p&gt;Eine spannende Lebensgeschichte des 1918 geborenen Kurt Wafner. Als Berliner Anarchist, der das Leben und die Liebe liebte, mußte er das Fürchten lernen unter den Nazis und den Kommunisten der DDR.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-contents&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Contents:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;p&gt;223 Seiten&lt;br /&gt;
+Erscheinungsjahr 2001&lt;br /&gt;
+14,90 Euro&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;product-body&quot;&gt;&lt;/div&gt;&lt;div class=&quot;field field-type-text field-field-copyright&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Copyright:&amp;nbsp;&lt;/div&gt;
+                    2001        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-publisher&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Publisher:&amp;nbsp;&lt;/div&gt;
+                    Edition AV        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-isbn&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              ISBN:&amp;nbsp;&lt;/div&gt;
+                    978-3-9806407-8-7        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-pages&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                      &lt;div class=&quot;field-label-inline-first&quot;&gt;
+              Seiten:&amp;nbsp;&lt;/div&gt;
+                    223        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-themen&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Themen:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Anarchismus        &lt;/div&gt;
+              &lt;div class=&quot;field-item even&quot;&gt;
+                    Biographien        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-erscheinungsjahr&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Erscheinungsjahr:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    2001        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-content-taxonomy field-field-buch-autor&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Autor:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Kurt Wafner        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <category domain="http://zuendbuch.de/de/erscheinungsjahr/2001">2001</category>
+ <category domain="http://zuendbuch.de/de/themen/anarchismus">Anarchismus</category>
+ <category domain="http://zuendbuch.de/de/themen/biographien">Biographien</category>
+ <category domain="http://zuendbuch.de/de/autor/kurt_wafner">Kurt Wafner</category>
+ <pubDate>Tue, 25 Mar 2008 12:05:43 +0000</pubDate>
+ <dc:creator>Wolfgang Zucht</dc:creator>
+ <guid isPermaLink="false">478 at http://zuendbuch.de</guid>
+</item>
+</channel>
+</rss>
