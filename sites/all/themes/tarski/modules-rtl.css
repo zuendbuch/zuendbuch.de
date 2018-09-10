@@ -1,0 +1,44 @@
+/* $Id: modules-rtl.css,v 1.4 2010/06/18 14:02:28 jarek Exp $ */
+
+#content a.feed-icon {
+  float: left;
+}
+.filter-help {
+  float: left;
+}
+.node ul.links.inline li {
+  margin: 0 0 0 11px;
+}
+.node .user-picture {
+  float: right;
+  margin: 0 0 15px 15px;
+}
+#comments-wrapper .indented {
+  margin: 0 30px 0 0;
+}
+.comment .user-picture {
+  float: left;
+  margin: 0 10px 10px 0;
+}
+.field-type-image,
+.field-name-body img {
+  float: right;
+}
+.field-type-image img,
+.field-name-body img {
+  margin: 15px 0 15px 15px;
+}
+.page-links .page-next {
+  text-align: left;
+}
+.block .more-link {
+  text-align: left;
+}
+#block-profile-author-information .user-picture {
+  float: right;
+  margin: 0 0 12px 12px;
+}
+.profile .user-picture {
+  float: left;
+}
+
